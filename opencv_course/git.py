@@ -13,3 +13,4 @@ while True:
 capture.release()
 cv.destroyAllWindows()
 # độc làm chó 
+#more line 
